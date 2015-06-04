@@ -1,0 +1,10 @@
+{
+	"name": "Forge/Http",
+	"description": "Forge Http",
+	"autoload": {
+		"psr-0": {"Forge": "src/"}
+	},
+	"require": {
+
+	}
+}
