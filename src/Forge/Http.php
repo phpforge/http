@@ -15,9 +15,12 @@ namespace Forge;
  */
 class Http {
 
+	
 	/*
 	 * @const int
 	 */
+	const STANDARD_HTTP_PORT = 80;
+	const STANDARD_HTTPS_PORT = 443;
 	const STATUS_CODE_100 = 100;
 	const STATUS_CODE_101 = 101;
 	const STATUS_CODE_200 = 200;
