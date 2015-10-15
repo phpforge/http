@@ -1,6 +1,6 @@
 {
-	"name": "Forge/Http",
-	"description": "Forge Http",
+	"name": "phpforge/http",
+	"description": "phpforge http",
 	"autoload": {
 		"psr-0": {"Forge": "src/"}
 	},
